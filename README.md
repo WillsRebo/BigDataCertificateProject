@@ -8,9 +8,13 @@ Para el obligatorio deberán utilizar las herramientas utilizadas en el curso. D
 Los pasos a seguir son:
 
 Parte 1
+      
       ●	Tomar los datos que fueron seleccionados junto al docente.
+      
       ●	Luego se deberá realizar un análisis exploratorio de los datos vía pandas, identificando el tipo de datos que hay en cada columna y que significado tienen dentro del dominio de los datos. Dentro de un Jupyter notebook se mostrará, una vista previa de las primeras filas, cantidad de columnas de cada tabla, nombre de cada columna, descripción de los datos de cada tabla, cómo está compuesto el esquema de los datos, revisar valores nulos o faltantes y limpiarlos si es necesario. Revisar registros duplicados. Claves primarias únicas. 
+     
       ●	Los archivos resultantes se deberán almacenar en otra carpeta.
+     
       ●	A partir de estos nuevos archivos, se deben crear visualizaciones dentro de otro notebook con las herramientas dadas en clase u otras de elección del equipo, que ayuden a responder las preguntas seleccionadas.
 
 
