@@ -1,5 +1,5 @@
 # BigDataCertificateProject
-Final project for the Big Data certification at ORT Uruguay University. It focused on analyzing and visualizing socioeconomic and demographic data using Python, PySpark, and Tableau Public. Key tasks included data cleaning with pandas, visualizations with matplotlib and seaborn, a Hive model, and an interactive dashboard. 
+Final project for the Big Data certification at ORT University, approved with 54/55, contributing to a total certification score of 95/100. It focused on analyzing and visualizing socioeconomic and demographic data using Python, PySpark, and Tableau Public, featuring pandas cleaning, matplotlib/seaborn visualizations, a Hive model, and a dashboard.
 
 #######-----Letra del Obligaotrio-----#######
 
