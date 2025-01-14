@@ -1,0 +1,187 @@
+Country,Age 0 to 14 Years,Age 15 to 64 Years,Age above 65 Years
+Japan,12.9,60.1,27.0
+Italy,13.5,63.5,23.0
+Portugal,13.6,64.9,22.0
+Germany,13.1,65.5,22.0
+Finland,16.4,62.4,21.0
+Bulgaria,14.2,65.0,21.0
+Greece,14.2,65.4,20.0
+Sweden,17.5,62.5,20.0
+Latvia,15.4,64.8,20.0
+Denmark,16.5,63.8,20.0
+France,18.1,62.2,20.0
+Croatia,14.7,65.6,20.0
+Estonia,16.4,64.2,20.0
+Malta,14.4,66.1,19.0
+Spain,14.7,65.9,19.0
+Austria,14.1,66.7,19.0
+Slovenia,15.0,66.0,19.0
+Czech Republic,15.4,65.6,19.0
+Lithuania,14.8,66.2,19.0
+Netherlands,16.4,64.8,19.0
+Hungary,14.3,67.1,19.0
+Belgium,17.1,64.3,19.0
+United Kingdom,17.7,63.8,19.0
+Switzerland,14.9,66.7,18.0
+Romania,15.3,66.9,18.0
+Serbia,16.5,66.2,17.0
+Canada,16.0,67.0,17.0
+Norway,17.8,65.4,17.0
+Poland,14.8,68.4,17.0
+Bosnia and Herzegovina,14.1,69.3,17.0
+Ukraine,15.5,68.0,17.0
+Curaçao,18.7,64.9,16.0
+Hong Kong,11.5,72.2,16.0
+Australia,19.0,65.5,16.0
+United States,18.9,65.7,15.0
+New Zealand,19.8,64.9,15.0
+Slovakia,15.4,69.6,15.0
+Barbados,19.1,66.0,15.0
+Georgia,19.2,66.0,15.0
+Belarus,16.7,68.5,15.0
+Montenegro,18.1,67.1,15.0
+Uruguay,21.1,64.3,15.0
+Cuba,16.1,69.2,15.0
+Iceland,20.1,65.5,14.0
+Luxembourg,16.5,69.2,14.0
+Russia,17.6,68.2,14.0
+South Korea,13.5,72.6,14.0
+Ireland,21.6,64.4,14.0
+Taiwan,13.12,73.02,14.0
+Cyprus,16.8,69.8,13.0
+Albania,17.4,68.9,13.0
+Singapore,15.0,72.1,13.0
+North Macedonia,23.7,64.4,12.0
+Israel,27.9,60.4,12.0
+Thailand,17.3,71.3,11.0
+Argentina,24.9,63.9,11.0
+Armenia,20.0,68.8,11.0
+Chile,20.3,68.6,11.0
+Mauritius,18.4,70.7,11.0
+Moldova,15.7,73.4,11.0
+China,17.7,71.7,11.0
+Sri Lanka,24.0,65.9,10.0
+Trinidad and Tobago,20.7,69.3,10.0
+Macau,13.4,76.9,10.0
+Jamaica,22.7,67.6,10.0
+Saint Lucia,18.9,71.4,10.0
+Costa Rica,21.3,68.9,10.0
+North Korea,20.6,69.9,10.0
+Bahamas,20.5,70.6,9.0
+Brazil,21.7,69.7,9.0
+Seychelles,22.2,69.2,9.0
+Lebanon,23.1,68.4,9.0
+El Salvador,27.4,64.4,8.0
+Turkey,25.0,66.9,8.0
+Tunisia,24.0,68.0,8.0
+Panama,27.4,64.7,8.0
+Saint Vincent and the Grenadines,23.8,68.5,8.0
+Colombia,23.5,68.9,8.0
+Grenada,26.3,66.4,7.0
+Peru,27.4,65.5,7.0
+Vietnam,23.1,69.8,7.0
+Ecuador,28.4,64.5,7.0
+Dominican Republic,29.3,63.7,7.0
+Kazakhstan,27.9,65.1,7.0
+Mexico,26.7,66.5,7.0
+Antigua and Barbuda,23.9,69.2,7.0
+Suriname,26.4,66.6,7.0
+Morocco,27.4,65.8,7.0
+Bolivia,31.6,61.7,7.0
+Venezuela,27.6,65.8,7.0
+Paraguay,29.4,64.2,6.0
+Malaysia,24.3,69.4,6.0
+Algeria,29.3,64.5,6.0
+Fiji,28.5,65.3,6.0
+India,27.8,66.2,6.0
+Azerbaijan,23.3,70.7,6.0
+Nepal,30.9,63.3,6.0
+Tonga,35.8,58.3,6.0
+Myanmar,26.8,67.4,6.0
+Samoa,36.6,57.8,6.0
+Nicaragua,29.0,65.5,5.0
+Iran,23.7,70.9,5.0
+Indonesia,27.4,67.3,5.0
+Guyana,28.1,65.7,5.0
+South Africa,29.0,65.7,5.0
+Egypt,33.5,61.4,5.0
+Bangladesh,28.4,66.5,5.0
+Bhutan,26.6,68.6,5.0
+Philippines,31.7,63.5,5.0
+Haiti,33.0,62.2,5.0
+Federated States of Micronesia,33.1,62.1,5.0
+Honduras,31.6,63.7,5.0
+Guatemala,35.1,60.3,5.0
+Brunei,23.0,72.4,5.0
+Lesotho,35.4,60.1,5.0
+Cape Verde,30.2,65.3,5.0
+Kyrgyzstan,31.8,63.7,5.0
+Pakistan,34.8,60.7,5.0
+Gabon,35.9,59.6,5.0
+Uzbekistan,28.0,67.5,5.0
+Libya,28.2,67.4,4.0
+Cambodia,31.3,64.3,4.0
+Vanuatu,36.0,59.7,4.0
+Turkmenistan,30.9,64.8,4.0
+Syria,36.6,59.1,4.0
+Djibouti,31.1,64.7,4.0
+Maldives,23.4,72.5,4.0
+Laos,32.9,63.1,4.0
+Mongolia,29.7,66.3,4.0
+Botswana,31.4,64.7,4.0
+Belize,31.4,64.7,4.0
+Jordan,35.5,60.7,4.0
+Papua New Guinea,35.9,60.3,4.0
+Central African Republic,43.2,53.1,4.0
+Timor-Leste,43.6,52.8,4.0
+Namibia,36.7,59.8,4.0
+Eritrea,41.8,54.6,4.0
+Sudan,40.8,55.6,4.0
+Ethiopia,40.6,55.9,4.0
+Tajikistan,35.3,61.3,4.0
+Solomon Islands,38.8,57.7,4.0
+Republic of the Congo,42.3,54.3,3.0
+South Sudan,41.7,54.9,3.0
+Ghana,38.5,58.1,3.0
+Saudi Arabia,25.2,71.5,3.0
+Cameroon,42.7,54.1,3.0
+Benin,42.7,54.1,3.0
+Iraq,40.4,56.4,3.0
+Mozambique,44.8,52.1,3.0
+Liberia,41.8,55.1,3.0
+Tanzania,44.9,52.0,3.0
+Mauritania,39.9,56.9,3.0
+Guinea,42.3,54.6,3.0
+Palestine,39.6,57.4,3.0
+Senegal,42.9,54.1,3.0
+Malawi,44.0,53.0,3.0
+Rwanda,40.1,56.9,3.0
+Democratic Republic of the Congo,46.3,50.7,3.0
+Comoros,39.8,57.3,3.0
+Guinea-Bissau,40.7,55.5,3.0
+Ivory Coast,42.4,54.6,3.0
+Madagascar,41.0,56.1,3.0
+São Tomé and Príncipe,42.8,54.3,3.0
+Yemen,39.9,57.2,3.0
+Togo,41.6,55.6,3.0
+Zimbabwe,41.2,56.0,3.0
+Nigeria,44.0,53.3,3.0
+Equatorial Guinea,37.2,60.0,3.0
+Kenya,40.5,56.8,3.0
+Somalia,46.4,50.8,3.0
+Afghanistan,43.2,54.2,3.0
+Burundi,45.0,52.4,3.0
+Niger,50.2,47.2,3.0
+Chad,47.1,50.4,3.0
+Sierra Leone,42.1,55.4,3.0
+Zambia,44.8,52.7,3.0
+Mali,47.7,49.8,3.0
+Oman,21.8,75.8,2.0
+Burkina Faso,45.2,52.4,2.0
+Bahrain,19.7,77.9,2.0
+Angola,46.8,50.8,2.0
+Gambia,45.3,52.3,2.0
+Kuwait,21.1,76.6,2.0
+Uganda,47.7,50.1,2.0
+Qatar,13.9,84.8,1.0
+United Arab Emirates,13.9,85.0,1.0
